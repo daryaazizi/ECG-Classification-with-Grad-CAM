@@ -1,4 +1,4 @@
-# ECG Classification with Grad-CAM Visualization
+# ECG Classification with Grad-CAM
 
 This repository implements a comprehensive pipeline for classifying ECG signals and visualizing feature importance using Grad-CAM. It is based on the implementation of the paper **"ECG Heartbeat Classification: A Deep Transferable Representation"** ([arXiv:1805.00794](https://arxiv.org/abs/1805.00794)), with the added feature of 1D Grad-CAM for model interpretability. The dataset used in this project is available [here](https://www.kaggle.com/datasets/shayanfazeli/heartbeat).
 
